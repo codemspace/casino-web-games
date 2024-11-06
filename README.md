@@ -19,8 +19,7 @@ Let the games begin – good luck, and may the odds be in your favor! 🍀
 - [Installation](#installation)
 
 ## Example Output
-
-*()*
+![281957465-11cff4b3-328a-4e26-a3b1-6c6c28e5a2ee](https://github.com/user-attachments/assets/9bf53132-47eb-4e60-8e95-b997a2a3baf8)
 
 ## Requirements
 - **PHP** >= 8.2
